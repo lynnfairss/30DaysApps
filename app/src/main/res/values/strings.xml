@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">30Day-Apps</string>
+
+    <string name="picdesc1">Day 1</string>
+    <string name="picdesc2">Day 2</string>
+    <string name="picdesc3">Day 3</string>
+    <string name="picdesc4">Day 4</string>
+    <string name="picdesc5">Day 5</string>
+    <string name="picdesc6">Day 6</string>
+    <string name="picdesc7">Day 7</string>
+    <string name="picdesc8">Day 8</string>
+    <string name="picdesc9">Day 9</string>
+    <string name="picdesc10">Day 10</string>
+    <string name="picdesc11">Day 11</string>
+    <string name="picdesc12">Day 12</string>
+
+
+
+
+
+    <string name="description_1">Practice deep breathing for 5 minutes to relieve stress.</string>
+    <string name="description_2">Take a short walk to refresh your mind and body.</string>
+    <string name="description_3">Write down three things you\'re grateful for today.</string>
+    <string name="description_4">Read a chapter of a book to relax and gain new insights.</string>
+    <string name="description_5">Stretch for 10 minutes to improve flexibility and reduce tension.</string>
+    <string name="description_6">Limit screen time before bed to improve sleep quality.</string>
+    <string name="description_7">LEvery hour, take a 5-minute break from your work to rest your eyes and stretch your body.</string>
+    <string name="description_8">Dedicate 15 minutes a day to learning a new skill or exploring a topic of interest</string>
+    <string name="description_9">Take time to call or visit family and friends. A strong support system is essential for well-being.</string>
+    <string name="description_10">"Before going to bed, take a few minutes to think about what went well today and what you can improve tomorrow.</string>
+    <string name="description_11">TDo light exercise every morning for 30 minutes to stay fit and energized.</string>
+
+    <string name="about">Pesan:</string>
+</resources>
+    <!--    Tip("Day 3", "Practice deep breathing for 5 minutes to relieve stress.", R.drawable.breathing),-->
+    <!--    Tip("Day 4", "Take a short walk to refresh your mind and body.", R.drawable.walk),-->
+    <!--    Tip("Day 5", "Write down three things you're grateful for today.", R.drawable.gratitude),-->
+    <!--    Tip("Day 6", "Read a chapter of a book to relax and gain new insights.", R.drawable.book),-->
+    <!--    Tip("Day 7", "Stretch for 10 minutes to improve flexibility and reduce tension.", R.drawable.stretching),-->
+    <!--    Tip("Day 8", "Limit screen time before bed to improve sleep quality.", R.drawable.sleep),-->
+    <!--    Tip("Day 9", "Try a new healthy recipe for dinner.", R.drawable.healthy_food),-->
